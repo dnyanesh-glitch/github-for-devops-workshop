@@ -13,3 +13,7 @@ git remote -v
 git push -u origin master
 git clone https url -to copy data from github to local
 git pull origin master -to pull data from github to local
+git branch 
+git branch dev
+git switch dev
+git log --oneline
